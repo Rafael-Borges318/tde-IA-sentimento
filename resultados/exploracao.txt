@@ -1,0 +1,23 @@
+EXPLORAÇÃO DOS DADOS
+========================================
+Número de linhas: 260
+
+Distribuição das classes:
+  negativo: 130 (50.0%)
+  positivo: 130 (50.0%)
+
+Tamanho médio dos textos (em palavras) por classe:
+  negativo: 7.71
+  positivo: 7.70
+
+3 exemplos de cada classe:
+
+  [negativo]
+   - Não gostei do filme, perda de dinheiro
+   - Péssima qualidade, rasgou na primeira lavagem
+   - Detestei o restaurante, terrível, estou arrependido
+
+  [positivo]
+   - A bateria não é horrível, gostei bastante
+   - Excelente atendimento pelo chat, sem enrolação
+   - Adorei o fone, excelente, tudo certo
