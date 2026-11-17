@@ -6,7 +6,7 @@ Distribuição das classes:
   negativo: 130 (50.0%)
   positivo: 130 (50.0%)
 
-Tamanho médio dos textos (em palavras) por classe:
+Tamanho medio dos textos por classe:
   negativo: 7.71
   positivo: 7.70
 
