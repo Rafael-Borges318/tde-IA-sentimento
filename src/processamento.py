@@ -9,7 +9,7 @@ STOPWORDS = {
 
 def preprocessar(texto, remover_stopwords=True):
     palavras = re.findall(
-        r"[a-záàâãéêíóôõúç]+",
+        r"[a-záàâãéêíóôõúçü]+",
         texto.lower()
     )
 

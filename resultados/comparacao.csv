@@ -1,0 +1,5 @@
+config,stopwords,vetorizador,vocabulario,acc_cv_media,acc_cv_desvio,f1_cv_media,f1_cv_desvio
+A,mantidas,BoW,425,0.841,0.0714,0.8401,0.0717
+B,mantidas,TF-IDF,425,0.8205,0.0917,0.8202,0.0916
+C,removidas,BoW,407,0.841,0.0923,0.8407,0.0925
+D,removidas,TF-IDF,407,0.8513,0.0909,0.8511,0.091
