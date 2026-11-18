@@ -1,0 +1,12 @@
+texto,real,previsto,probabilidade
+O sabor é maravilhoso e as porções são generosas,positivo,negativo,0.53
+"Panela de péssima qualidade, a comida gruda e queima",negativo,positivo,0.521
+"Ambiente sujo e desorganizado, fui mal recebido",negativo,positivo,0.531
+A qualidade é muito boa,positivo,negativo,0.504
+"A série perdeu a graça, enrolação do começo ao fim",negativo,positivo,0.535
+"Ficou feio na sala, a cor é bem diferente da foto",negativo,positivo,0.524
+"Pesado e desajeitado, difícil de carregar no dia a dia",negativo,positivo,0.521
+A loja é confiável e o suporte respondeu rapidinho,positivo,negativo,0.596
+"Aula dinâmica e interessante, aprendi muito em pouco tempo",positivo,negativo,0.58
+"Cheguei animado, mas me arrependi, tudo estava sujo",negativo,positivo,0.583
+Camiseta encolheu e desbotou depois da primeira lavagem,negativo,positivo,0.529

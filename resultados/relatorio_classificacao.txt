@@ -1,0 +1,10 @@
+configuracao: D
+
+              precision    recall  f1-score   support
+
+    negativo      0.867     0.788     0.825        33
+    positivo      0.800     0.875     0.836        32
+
+    accuracy                          0.831        65
+   macro avg      0.833     0.831     0.831        65
+weighted avg      0.834     0.831     0.831        65
